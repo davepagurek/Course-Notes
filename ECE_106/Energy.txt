@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-27T14:11:42-04:00
+
+====== Energy ======
+Created Friday 27 March 2015
+
+Energy stored in a conductor:
+{{./equation.png?type=equation}}
+
+Magnetic energy stored in an inductor:
+{{./equation001.png?type=equation}}
+
+
+Equating the two energy equations yields:
+{{./equation002.png?type=equation}}

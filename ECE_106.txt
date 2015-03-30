@@ -1,0 +1,28 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-27T14:19:33-04:00
+
+====== ECE 106 ======
+Created Friday 27 March 2015
+
+===== Variables to know =====
+
+{{./equation.png?type=equation}}
+
+{{./equation001.png?type=equation}}
+[[+Dielectrics]]
+
+{{./equation002.png?type=equation}}
+{{./equation004.png?type=equation}}
+[[+Magnetic_Field]]
+
+{{./equation003.png?type=equation}}
+{{./equation006.png?type=equation}}
+{{./equation005.png?type=equation}}
+[[+Inductance and Magnetic Flux]]
+
+
+
+
+
+

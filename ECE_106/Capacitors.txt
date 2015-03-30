@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-24T10:18:32-04:00
+
+====== Capacitors ======
+Created Tuesday 24 March 2015
+
+===== General Equations =====
+{{./equation002.png?type=equation}}
+{{./equation003.png?type=equation}}
+{{./equation007.png?type=equation}}
+
+Capacitors in parallel:
+{{./equation004.png?type=equation}}
+
+Capacitors in series:
+{{./equation005.png?type=equation}}
+
+Energy:
+{{./equation006.png?type=equation}}

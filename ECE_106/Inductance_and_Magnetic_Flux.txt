@@ -1,0 +1,30 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-27T13:34:26-04:00
+
+====== Inductance and Magnetic Flux ======
+Created Friday 27 March 2015
+
+===== Mutual Inductance =====
+{{./pasted_image.png}}
+Due to current {{./equation.png?type=equation}}, a magnetic flux density {{./equation001.png?type=equation}} is created.
+On current {{./equation002.png?type=equation}}, flux due to {{./equation004.png?type=equation}}:
+{{./equation003.png?type=equation}}
+
+L is inductance, which is a proportionality constant.
+
+The inductance from 1 on 2 and from 2 on 1 are **always** the same:
+{{./equation008.png?type=equation}}
+
+==== Flux Linkage ====
+If there are {{./equation005.png?type=equation}} turns on {{./equation006.png?type=equation}}, then the flux linkage from circuit 1 on 2 is:
+{{./equation007.png?type=equation}}
+
+===== Self-Inductance =====
+Self-inductance is the inductance due to the magnetic field of a circuit cutting across its cross section.
+{{./equation009.png?type=equation}}
+So:
+{{./equation010.png?type=equation}}
+
+From rearranging, the self inductance is therefore:
+{{./equation011.png?type=equation}}

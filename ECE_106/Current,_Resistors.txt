@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-25T22:06:37-04:00
+
+====== Current, Resistors ======
+Created Wednesday 25 March 2015
+
+{{./equation.png?type=equation}}
+{{./pasted_image.png}}
+{{./equation002.png?type=equation}}
+
+===== Current Density =====
+{{./equation001.png?type=equation}}
+
+
+===== Resistance =====
+{{./equation003.png?type=equation}}
+
+==== Resistance and Temperature ====
+{{./equation008.png?type=equation}}
+{{./equation009.png?type=equation}} is usually 20 degrees C.
+
+
+===== Resistivity (microscopic property) =====
+{{./equation004.png?type=equation}}
+
+Conductance:
+{{./equation005.png?type=equation}}
+
+{{./equation006.png?type=equation}}
+
+Connection to resistance:
+{{./equation007.png?type=equation}}

@@ -1,0 +1,49 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-24T11:08:52-04:00
+
+====== Dielectrics ======
+Created Tuesday 24 March 2015
+
+===== General Equations =====
+{{./equation.png?type=equation}}
+{{./equation004.png?type=equation}}
+
+Actual Gauss's law:
+{{./equation001.png?type=equation}}
+
+===== Boundary Conditions =====
+{{./pasted_image001.png}}
+The tangential components of the electric fields are the same:
+{{./equation006.png?type=equation}}
+
+The difference between the normal components times permittivity is the surface charge density:
+{{./equation007.png?type=equation}}
+
+===== Examples =====
+
+1. A capacitor is connected to a power supply with voltage V. Once charged, the power supply is remvoed, and a dielectric is placed halfway into the capacitor. Find the charge on the part of the capacitor with the dielectric in it.
+{{./pasted_image.png}}
+
+Before power source is removed:
+{{./equation002.png?type=equation}}
+
+After:
+{{./equation003.png?type=equation}}
+
+{{./equation008.png?type=equation}}
+
+{{./equation009.png?type=equation}}
+
+{{./equation010.png?type=equation}}
+
+
+2. Two media are side by side. In medium 1, {{./equation011.png?type=equation}} makes an angle of {{./equation012.png?type=equation}} with the normal axis. Calculate {{./equation013.png?type=equation}}.
+{{./pasted_image002.png}}
+{{./equation014.png?type=equation}}
+
+Dividing the first equation by the second gives:
+
+{{./equation015.png?type=equation}}
+
+{{./pasted_image003.png}}

@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-27T14:18:13-04:00
+
+====== Faraday's Law ======
+Created Friday 27 March 2015
+
+===== Induced Voltage =====
+What happens when B is changing with time?
+{{./pasted_image.png}}
+If linkage changes with time, there is an induced voltage across the circuit.
+{{./equation.png?type=equation}}
+{{./equation001.png?type=equation}}
+
+Assume the circuit is a battery. **TIP: Always assume dl is counterclockwise and ds is up.** If the assumption is wrong, the answer will simply appear negative, indicating that the direction was opposite of what was assumed.
+{{./pasted_image001.png}}
+
+==== Lenz's Law ====
+the induced voltage createse a current in a direction such that the induced current tries to oppose the charge in {{./equation002.png?type=equation}}. This is essentially just a restatement of the conservation of energy.
+
+===== Examples =====
+1. Calculate the induced voltage
+{{./pasted_image002.png}}
+{{./equation003.png?type=equation}}
+
+{{./equation004.png?type=equation}}
+
+
+

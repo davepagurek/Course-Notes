@@ -1,0 +1,41 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-25T22:04:50-04:00
+
+====== Magnetic Field ======
+Created Wednesday 25 March 2015
+
+{{./equation003.png?type=equation}}
+
+===== Biot-Savart Law =====
+{{./equation.png?type=equation}}
+{{./pasted_image.png}}
+
+===== Ampere's Law =====
+{{./equation001.png?type=equation}}
+{{./equation004.png?type=equation}}
+{{./pasted_image002.png}}
+
+For a line current:
+{{./equation002.png?type=equation}}
+
+
+===== Magnetic Materials =====
+Diamagnetic: {{./equation005.png?type=equation}}
+Paramagnetic: {{./equation006.png?type=equation}}
+Ferromagnetic: {{./equation007.png?type=equation}}
+
+===== Forces in Magnetic Fields =====
+{{./equation009.png?type=equation}}
+where v is ithe velocity of the charge.
+
+Lorentz's Force Law equates magnetic and electric force:
+{{./equation010.png?type=equation}}
+
+
+===== Boundary Conditions =====
+{{./pasted_image003.png}}
+The normal components of the magnetic field will be equal
+{{./equation008.png?type=equation}}
+
+(The tangential component isn't useful and won't be on the exam!)
