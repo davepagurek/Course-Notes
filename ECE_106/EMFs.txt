@@ -1,0 +1,36 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2015-03-30T15:15:19-04:00
+
+====== EMFs ======
+Created Monday 30 March 2015
+
+===== 1. Transformer EMFs =====
+Magnetic flux density (B) is changing with time
+{{./equation.png?type=equation}}
+
+===== 2. Motional EMFs =====
+The circuit is moving across a constant magnetic flux density (B)
+{{./equation001.png?type=equation}}
+
+===== 3. Both 1 and 2 are happening at the same time =====
+Method 1:
+- Solve for 1 assuming the circuit is constant
+- Solve for 2 assuming {{./equation002.png?type=equation}} is constant
+- Sum them uo
+
+Method 2:
+{{./equation003.png?type=equation}}
+
+
+===== Example =====
+{{./pasted_image.png}}
+{{./equation004.png?type=equation}}
+
+At any time  t:
+{{./equation005.png?type=equation}}
+
+{{./equation006.png?type=equation}}
+
+So:
+{{./equation007.png?type=equation}}
